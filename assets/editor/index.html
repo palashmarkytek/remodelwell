@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>CKEditor 5 Sample</title>
+		<link rel="stylesheet" href="./style.css">
+		<link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/42.0.1/ckeditor5.css">
+	</head>
+	<body>
+		<div>
+			<div class="main-container">
+				<div class="editor-container editor-container_classic-editor" id="editor-container">
+					<div class="editor-container__editor"><div id="editor"></div></div>
+				</div>
+			</div>
+		</div>
+		<script type="importmap">
+		{
+			"imports": {
+				"ckeditor5": "https://cdn.ckeditor.com/ckeditor5/42.0.1/ckeditor5.js",
+				"ckeditor5/": "https://cdn.ckeditor.com/ckeditor5/42.0.1/"
+			}
+		}
+		</script>
+		<script type="module" src="./main.js"></script>
+		<!-- A friendly reminder to run on a server, remove this during the integration. -->
+		<script>
+			window.onload = function() {
+				if ( window.location.protocol === "file:" ) {
+					alert( "This sample requires an HTTP server. Please serve this file with a web server." );
+				}
+			};
+		</script>
+	</body>
+</html>

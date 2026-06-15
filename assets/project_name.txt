@@ -1,0 +1,263 @@
+[
+    {
+        "project_title": "GSTR1"
+    },
+    {
+        "project_title": "Income tax return"
+    },
+    {
+        "project_title": "GSTR3B"
+    },
+    {
+        "project_title": "Gospel Home NGO darpan and LEI"
+    },
+    {
+        "project_title": "Renewal of car rental agreement"
+    },
+    {
+        "project_title": "Surrender of 10AC"
+    },
+    {
+        "project_title": "Professional tax(P-Tax)"
+    },
+    {
+        "project_title": "Company Incorporation"
+    },
+    {
+        "project_title": "MEF 24"
+    },
+    {
+        "project_title": "Income tax Case related drafting"
+    },
+    {
+        "project_title": "ESIC & EPFO"
+    },
+    {
+        "project_title": "TDS Payment(Monthly)"
+    },
+    {
+        "project_title": "Certificate with UDIN"
+    },
+    {
+        "project_title": "TDS Return(Quarterly)"
+    },
+    {
+        "project_title": "Advance Tax Payment(Quarterly)"
+    },
+    {
+        "project_title": "GST Registration and Income tax update"
+    },
+    {
+        "project_title": "GST Registration"
+    },
+    {
+        "project_title": "Legal Drafting"
+    },
+    {
+        "project_title": "Trade Mark Registration"
+    },
+    {
+        "project_title": "Professional Tax(P-Tax) Closer"
+    },
+    {
+        "project_title": "GSTR 9C"
+    },
+    {
+        "project_title": "Autor's Appointment"
+    },
+    {
+        "project_title": "NGO Darpan Registration"
+    },
+    {
+        "project_title": "ROC "
+    },
+    {
+        "project_title": "Trade Licence Registration"
+    },
+    {
+        "project_title": "TAN Registration"
+    },
+    {
+        "project_title": "Loan Project with CMA "
+    },
+    {
+        "project_title": "Auditor's Appointment"
+    },
+    {
+        "project_title": "Admissoin of DP and form 3 rectification"
+    },
+    {
+        "project_title": "RERA Registration"
+    },
+    {
+        "project_title": "GST Return"
+    },
+    {
+        "project_title": "Advance Tax Calculation"
+    },
+    {
+        "project_title": "P Tax Enrollment"
+    },
+    {
+        "project_title": "Partnership Agreement \"M\/s Annesha Realities \""
+    },
+    {
+        "project_title": "Incorporation of LLP"
+    },
+    {
+        "project_title": "Trade License Application"
+    },
+    {
+        "project_title": "Professional Tax(P-Tax) Registration"
+    },
+    {
+        "project_title": "EPFO & ESIC Registration"
+    },
+    {
+        "project_title": "EPFO & ESIC Payment"
+    },
+    {
+        "project_title": "Audit and Income tax filing related to dissolution"
+    },
+    {
+        "project_title": "Startup registration and Tax exemption"
+    },
+    {
+        "project_title": "Incorporation of SIB Consultancy Services LLP"
+    },
+    {
+        "project_title": "GST case related drafting and filing and travel to office"
+    },
+    {
+        "project_title": "GST Refund"
+    },
+    {
+        "project_title": "Net Worth Certificate"
+    },
+    {
+        "project_title": "Professional Tax(P-Tax) Payment"
+    },
+    {
+        "project_title": "Pref. Share issue"
+    },
+    {
+        "project_title": "Uttam Chanda Income Tax filing"
+    },
+    {
+        "project_title": "Incorporation of the Company"
+    },
+    {
+        "project_title": "Registered office verification (INC22)"
+    },
+    {
+        "project_title": "First Auditor Appointment (ADT-1)"
+    },
+    {
+        "project_title": "Commencement of Business (INC20A)"
+    },
+    {
+        "project_title": "Advance Tax Payment"
+    },
+    {
+        "project_title": "Others"
+    },
+    {
+        "project_title": "Mousumi Barman (ITR File) AY - 23-24, 24-25"
+    },
+    {
+        "project_title": "DIR 3 KYC"
+    },
+    {
+        "project_title": "Share Transfer and related works"
+    },
+    {
+        "project_title": "LLP Strike off"
+    },
+    {
+        "project_title": "USD Remitance Certificate"
+    },
+    {
+        "project_title": "Admission of Designated Partner"
+    },
+    {
+        "project_title": "All director KYC"
+    },
+    {
+        "project_title": "Incorporation of Private Limited Company "
+    },
+    {
+        "project_title": "Income Tax Case"
+    },
+    {
+        "project_title": "Certification of Net Worth, Turnover, and Liquid Assets"
+    },
+    {
+        "project_title": "Trade Registration Renewal"
+    },
+    {
+        "project_title": "Incorporation of LLP"
+    },
+    {
+        "project_title": "Company Charge Creation (CHG-1)"
+    },
+    {
+        "project_title": "Dematerialization of Shares"
+    },
+    {
+        "project_title": "Increament of Paid Up Share Capital"
+    },
+    {
+        "project_title": "TAX AUDIT"
+    },
+    {
+        "project_title": "LLP Form 8 (Annual Return)"
+    },
+    {
+        "project_title": "LLP Form 11"
+    },
+    {
+        "project_title": "Resignation of Directors \/ Designated Partners"
+    },
+    {
+        "project_title": "GST Return (Monthly)"
+    },
+    {
+        "project_title": "DPT 3 FILE"
+    },
+    {
+        "project_title": "10 A (SOCIETY)"
+    },
+    {
+        "project_title": "Agreement drafting and Related Works (Others)"
+    },
+    {
+        "project_title": "DIGITAL SIGNATURE CERTIFICATE"
+    },
+    {
+        "project_title": "Strike Off \/ Winding Up of Company \/ LLP"
+    },
+    {
+        "project_title": "MOA \/ AOA AMENDMENT OF COMPANY"
+    },
+    {
+        "project_title": "RETAINERSHIP "
+    },
+    {
+        "project_title": "PF WITHDRAWAL"
+    },
+    {
+        "project_title": "Statutory Audit of Companies"
+    },
+    {
+        "project_title": "INC 20 A (Commencement of Business Intimation to ROC)"
+    },
+    {
+        "project_title": "PAN Registration \/ Updatation"
+    },
+    {
+        "project_title": "DSC MAKING"
+    },
+    {
+        "project_title": "Trademark Registration "
+    }
+]
