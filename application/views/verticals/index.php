@@ -50,7 +50,7 @@
                     <span class="vertical-price-wrapper" data-id="<?= (int) $vertical['id'] ?>">
                       <span class="vertical-price-value"><?= number_format((float) ($vertical['price'] ?? 0), 2, '.', '') ?></span>
                       <button type="button" class="btn btn-link btn-sm p-0 ml-1 edit-vertical-price" title="Edit Price">
-                        <i class="fa fa-pen"></i>
+                        <i class="fa fa-edit"></i>
                       </button>
                     </span>
                   </td>
